@@ -10,7 +10,9 @@
  * skiros2: [[code]](https://github.com/RVMI/skiros2)
  * Behavior Tree-Based Task Planning for Multiple Mobile Robots using a Data Distribution Service,arxiv,2022[[Paper]](https://arxiv.org/pdf/2201.10918.pdf)
 
-
+**langchain**
+ * 한국어 튜토리얼: [[code]](https://wikidocs.net/book/14314)
+ * llamaGym: 온라인 강화 학습을 통한 LLM 에이저트: [[code]](https://news.hada.io/topic?id=13938)
 
 
 

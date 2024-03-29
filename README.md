@@ -5,7 +5,7 @@
 ### **참고**
 
 **LLM**
-Efficient Large Language Models: A Survey[[survey]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey?tab=readme-ov-file#LLM-Frameworks)
+Efficient Large Language Models: A Survey[[Survey]](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey?tab=readme-ov-file#LLM-Frameworks)
 
 
 **behavior tree**
